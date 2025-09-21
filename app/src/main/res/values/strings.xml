@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">todolist</string>
+    <string name="hint_add_item">Masukkan list item</string>
+    <string name="add_todo">Tambahkan todo</string>
+    <string name="delete">Hapus</string>
+
+    <!-- New strings for gamified features -->
+    <string name="character_shop">Toko Karakter</string>
+    <string name="calendar_history">Kalender &amp; Riwayat</string>
+    <string name="back">Kembali</string>
+    <string name="buy">Beli</string>
+    <string name="select">Pilih</string>
+    <string name="active">Aktif</string>
+    <string name="today">Hari Ini</string>
+    <string name="no_tasks_for_date">Tidak ada tugas untuk tanggal ini</string>
+
+    <!-- Task types -->
+    <string name="todo_list">To-Do List</string>
+    <string name="habit_tracker">Habit Tracker</string>
+    <string name="planning">Planning</string>
+    <string name="daily_activity">Aktivitas Harian</string>
+
+    <!-- Actions -->
+    <string name="complete">Selesai</string>
+    <string name="fail">Gagal</string>
+    <string name="skip">Lewati</string>
+    <string name="revive_character">Hidupkan Karakter</string>
+
+    <!-- Status messages -->
+    <string name="character_dead">Karakter Anda mati! Selesaikan minimal 1 tugas untuk menghidupkannya kembali.</string>
+    <string name="character_revived">Karakter Anda hidup kembali!</string>
+    <string name="coins_earned">Koin didapat: +%d</string>
+    <string name="coins_lost">Koin hilang: -%d</string>
+    <string name="task_completed">Tugas diselesaikan!</string>
+    <string name="task_failed">Tugas gagal!</string>
+
+    <!-- Character status -->
+    <string name="character_alive">Hidup</string>
+    <string name="character_dead_status">Mati</string>
+    <string name="level">Level %d</string>
+    <string name="experience">Exp: %d</string>
+
+    <!-- Hints -->
+    <string name="hint_todo">Masukkan tugas baru...</string>
+    <string name="hint_habit">Masukkan kebiasaan baru...</string>
+    <string name="hint_planning">Masukkan rencana...</string>
+    <string name="hint_daily">Masukkan aktivitas harian...</string>
+</resources>
